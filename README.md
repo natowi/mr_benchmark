@@ -6,7 +6,7 @@ Benchmarking Meshroom with the Monstree dataset
 
 **default graph and parameters**
 
-You can calculate with 30sec. per image on a computer with i7@2.9GHz, GTX1070 8GB, 32GB Ram.
+You can calculate with 30sec. per image on a computer with i7 2.9GHz, GTX1070 8GB, 32GB Ram.
 MR2018 260s
 MR2019.1 185s
 
