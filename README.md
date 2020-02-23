@@ -15,7 +15,7 @@ MR2019.1 185s
 
 This will reduce the computation time on multi-core machines
 
-i7@2.9GHz, GTX1070, 32GB, computation time reduced by ~20%
+i7 2.9GHz, GTX1070, 32GB, computation time reduced by ~20%
 
 
 # Linux
